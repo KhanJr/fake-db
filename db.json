@@ -1,0 +1,91 @@
+{
+  "posts": {
+    "post": {
+      "profile": "https://images.unsplash.com/photo-1646086347324-8fef219aebcc?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDl8Ym84alFLVGFFMFl8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "uname": "rizwan",
+      "cname": "rizwan",
+      "content": "https://images.unsplash.com/photo-1645917864901-1fa7731b9af6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHx0b3BpYy1mZWVkfDE0fGJvOGpRS1RhRTBZfHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "like": 0,
+      "message": 0,
+      "description": "Veniam non nisi dolor Lorem mollit irure qui dolore veniam. Ut adipisicing sint reprehenderit ex duis sit nisi in excepteur nostrud incididunt incididunt laboris laborum. Fugiat veniam sit dolor laboris adipisicing nulla fugiat. Lorem culpa nostrud anim dolor nostrud ad. Eiusmod occaecat elit deserunt qui. Occaecat laboris culpa cupidatat aute cillum culpa fugiat duis excepteur exercitation."
+    },
+    "comments": [
+      {
+        "uname": "sashi",
+        "profile": "https://images.pexels.com/photos/10394895/pexels-photo-10394895.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "content": "https://images.pexels.com/photos/10394895/pexels-photo-10394895.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500",
+        "description": "Do it quickly, dumbass.",
+        "like": 0,
+        "message": 0
+      },
+      {
+        "uname": "aniket",
+        "profile": "https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "content": "https://images.pexels.com/photos/4534200/pexels-photo-4534200.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description": "Give me 50% equity.",
+        "like": 0,
+        "message": 0
+      },
+      {
+        "uname": "vab14",
+        "profile": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "content": "https://images.pexels.com/photos/3225517/pexels-photo-3225517.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description": "Oyee rizzzy-pizzzy",
+        "like": 0,
+        "message": 0
+      },
+      {
+        "uname": "faker",
+        "profile": "https://images.pexels.com/photos/3214944/pexels-photo-3214944.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "content": "https://images.pexels.com/photos/3214944/pexels-photo-3214944.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+        "description": "Lets do it vroski.",
+        "like": 0,
+        "message": 0
+      }
+    ]
+  },
+  "clans": [
+    {
+      "cname": "rizwan",
+      "description": "Lörem ipsum logoosmos antepäkase dekagt sur krosade. Iliga permeter hypojägisk bende ibel. Seseren bingar, jövis ",
+      "profilePic": "https://images.unsplash.com/photo-1646538626714-e677560daa90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw1fHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60",
+      "totUser": 15.5
+    },
+    {
+      "cname": "sameer",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1519120944692-1a8d8cfc107f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHdoaXRlfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "totUser": 12.0
+    },
+    {
+      "cname": "sam",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1646348207743-729bc76a73b7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxMHx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "totUser": 54.0
+    },
+    {
+      "cname": "ritu",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1646521819511-e61831b9a602?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwxN3x8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "totUser": 1
+    },
+    {
+      "cname": "sashi",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1536329583941-14287ec6fc4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDF8MHxlZGl0b3JpYWwtZmVlZHwyMXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "totUser": 20
+    },
+    {
+      "cname": "great",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1645529495073-2008af098f17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwzMXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "totUser": 22
+    },
+    {
+      "cname": "me",
+      "description": "Est amet tempor proident ipsum laborum culpa esse et dolore cillum est et ipsum.",
+      "profilePic": "https://images.unsplash.com/photo-1646812890887-80d95c57cb7c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyOXx8fGVufDB8fHx8&auto=format&fit=crop&w=500&q=60",
+      "totUser": 33
+    }
+  ]
+}
